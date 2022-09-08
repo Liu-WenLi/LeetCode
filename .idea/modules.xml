@@ -2,16 +2,27 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaGiude/JavaGiude.iml" filepath="$PROJECT_DIR$/JavaGiude/JavaGiude.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/leetcode_2/LeetCode_2.iml" filepath="$PROJECT_DIR$/leetcode_2/LeetCode_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode-2/LeetCode-2.iml" filepath="$PROJECT_DIR$/leetcode-2/LeetCode-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode-1/leetcode-1.iml" filepath="$PROJECT_DIR$/leetcode-1/leetcode-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode-10/leetcode-10.iml" filepath="$PROJECT_DIR$/leetcode-10/leetcode-10.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode-11/leetcode-11.iml" filepath="$PROJECT_DIR$/leetcode-11/leetcode-11.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode-15/leetcode-15.iml" filepath="$PROJECT_DIR$/leetcode-15/leetcode-15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode-17/leetcode-17.iml" filepath="$PROJECT_DIR$/leetcode-17/leetcode-17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode-19/leetcode-19.iml" filepath="$PROJECT_DIR$/leetcode-19/leetcode-19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode-20/leetcode-20.iml" filepath="$PROJECT_DIR$/leetcode-20/leetcode-20.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode-2034/leetcode-2034.iml" filepath="$PROJECT_DIR$/leetcode-2034/leetcode-2034.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode-21/leetcode-21.iml" filepath="$PROJECT_DIR$/leetcode-21/leetcode-21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode-22/leetcode-22.iml" filepath="$PROJECT_DIR$/leetcode-22/leetcode-22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode-23/leetcode-23.iml" filepath="$PROJECT_DIR$/leetcode-23/leetcode-23.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode-3/leetcode-3.iml" filepath="$PROJECT_DIR$/leetcode-3/leetcode-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode-31/leetcode-31.iml" filepath="$PROJECT_DIR$/leetcode-31/leetcode-31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode-32/leetcode-32.iml" filepath="$PROJECT_DIR$/leetcode-32/leetcode-32.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode-4/leetcode-4.iml" filepath="$PROJECT_DIR$/leetcode-4/leetcode-4.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode-5/leetcode-5.iml" filepath="$PROJECT_DIR$/leetcode-5/leetcode-5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/leetcode_1/leetcode_1.iml" filepath="$PROJECT_DIR$/leetcode_1/leetcode_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode-875/leetcode-875.iml" filepath="$PROJECT_DIR$/leetcode-875/leetcode-875.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weilai-test/weilai-test.iml" filepath="$PROJECT_DIR$/weilai-test/weilai-test.iml" />
     </modules>
   </component>
 </project>

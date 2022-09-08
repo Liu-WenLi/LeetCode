@@ -14,7 +14,7 @@
 
 综上所述状态转移方程如下：
 
-![状态转移方程](C:\Users\刘文力\Desktop\LeetCode\leetcode-10\1.png)
+![状态转移方程](C:\Users\liuwenli\Desktop\my_work\LeetCode\leetcode-10\1.png)
 
  边界条件为`f[0][0] = ture`意为两个空的字符串正则化匹配。对于`f[0][i]`的情况，若p[i]为`*`则`f[0][i] = f[0][i - 2]`其余全为false。
 
